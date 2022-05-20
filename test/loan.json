@@ -1,0 +1,16 @@
+{
+	"Inputs": [
+		{
+			"name": "InputMode",
+			"value": 1
+		},
+		{
+			"name": "InputCalcData",
+			"value": {
+				"DOB": "26/01/1965",
+				"LoanValue": 30000,
+				"RateType": "Smoker"
+			}
+		}
+	]
+}
